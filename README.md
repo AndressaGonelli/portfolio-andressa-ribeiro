@@ -18,3 +18,4 @@ Abra o arquivo `index.html` no navegador.
 ## Sobre o formulário
 
 O formulário valida nome, e-mail e mensagem. Ao clicar em enviar, mostra uma confirmação, mas não encaminha nem salva os dados. Ele serve apenas como demonstração acadêmica.
+
